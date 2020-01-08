@@ -16,6 +16,7 @@ const PostsWrapper = styled.div`
 
 const Blog = props => {
   const posts = props.data.allMdx.edges || []
+  console.log('POSTS', props.data)
   const siteUrl = props.data.site.siteMetadata.siteUrl
   return (
     <Layout location={props.location} active={pages.blog}>
@@ -33,7 +34,7 @@ const Blog = props => {
                     excerpt: node.excerpt,
                     date: node.frontmatter.date,
                     path: `/${node.fields.slug}`,
-                    timeToRead: node.timeToRead
+                    timeToRead: node.timeToRead,
                   }}
                   key={node.frontmatter.path}
                 />
