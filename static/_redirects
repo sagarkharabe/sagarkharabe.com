@@ -1,0 +1,8 @@
+# Redirect default Netlify subdomain to primary domain
+
+/g https://github.com/sagarkharbe 301
+/t https://twitter.com/sagarkharabe 301
+/i https://www.instagram.com/sagar.r.k 301
+/l https://www.linkedin.com/in/sagarkharabe 301
+
+https://dantecalderon.netlify.com/* https://dantecalderon.dev/:splat 301!
