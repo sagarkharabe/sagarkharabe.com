@@ -22,10 +22,10 @@ const Disqus = ({ title, path }) => {
     </Container>
   )
 }
-
+//dantecalderon.dev
 Disqus.propTypes = {
   title: PropTypes.string.isRequired,
-  path: PropTypes.string.isRequired
+  path: PropTypes.string.isRequired,
 }
 
 export default Disqus
