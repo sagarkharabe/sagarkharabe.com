@@ -15,7 +15,7 @@ images:
   - description: List of songs in Channel
     image: >-
       ../images/screencapture-dantehemerson-github-io-musicami-explore-popular-2018-11-20-14_02_28.png
-date: 2018-11-20T19:10:55.340Z
+date: 2019-06-20T19:10:55.340Z
 finished: false
 published: true
 style: default
@@ -32,8 +32,8 @@ stack:
   - Semantic-UI
   - AnyAudio-api
 client: Personal
-repository: 'https://github.com/dantehemerson/musicami'
+repository: 'https://github.com/sagarkharbe'
 licence: MIT
-website: 'https://musicami.ml'
+website: ''
 ---
 Free open source music player
