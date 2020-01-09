@@ -18,4 +18,4 @@ yarn start
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdantehemerson%2Fdantecalderon.dev.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdantehemerson%2Fdantecalderon.dev?ref=badge_large)
+<!-- [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdantehemerson%2Fdantecalderon.dev.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdantehemerson%2Fdantecalderon.dev?ref=badge_large) -->

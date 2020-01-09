@@ -205,11 +205,11 @@ module.exports = {
       },
     },
     'gatsby-plugin-styled-components',
-    {
-      resolve: 'gatsby-plugin-mailchimp',
-      options: {
-        endpoint: process.env.GATSBY_MAILCHIMP_LIST || '',
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-mailchimp',
+    //   options: {
+    //     endpoint: process.env.GATSBY_MAILCHIMP_LIST || '',
+    //   },
+    // },
   ],
 }

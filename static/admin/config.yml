@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sagarkharabe/sagarkharabe.com
+  repo: sagarkharbe/sagarkharabe.com
 
 media_folder: content/images
 public_folder: /images
