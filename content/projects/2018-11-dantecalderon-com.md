@@ -1,26 +1,26 @@
 ---
 model: project
-title: dantecalderon
-subtitle: My webpage
-description: Personal-website
-path: dantecalderon
-image: ../images/danteclderon-home.png
+title: SagarKharabe.com
+subtitle: My website, blogs & portfolio
+description: Personal-Website
+path: sagarkharabe
+image: ../images/sagarkharabe-home.png
 images:
-  - description: HOme page
-    image: ../images/danteclderon-home.png
+  - description: Home page
+    image: ../images/sagarkharabe-home.png
   - description: About page
-    image: ../images/danteacalderon-about.png
+    image: ../images/sagarkharabe-about.png
   - description: Contact Page
-    image: ../images/dantecalderon-portfolio.png
-  - description: 'Siklls section '
-    image: ../images/dantecalderon-about-skills.png
+    image: ../images/sagarkharabe-portfolio.png
+  - description: 'Skills section '
+    image: ../images/sagarkharabe-about-skills.png
   - description: Blog page
-    image: ../images/dantecalderon-blog.png
+    image: ../images/sagarkharabe-blog.png
   - description: Project page
-    image: ../images/dantecalderon-project.png
+    image: ../images/sagarkharabe-project.png
   - description: Post Page
-    image: ../images/dantecalderon-post.png
-date: 2018-11-06T20:32:07.279Z
+    image: ../images/sagarkharabe-post.png
+date: 2019-10-06T20:32:07.279Z
 finished: true
 published: true
 style: default
@@ -37,8 +37,8 @@ stack:
   - GraphQL
   - Github
 client: Personal
-repository: 'https://github.com/dantehemerson/dantecalderon.dev'
+repository: 'https://github.com/sagarkharbe/sagarkharabe.com'
 licence: MIT
-website: 'https://dantecalderon.dev'
+website: 'https://sagarkharabe.com'
 ---
-My website is awesome
+My website is awesome!

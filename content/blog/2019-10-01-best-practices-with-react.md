@@ -2,7 +2,7 @@
 model: post
 title: Best practices with React
 description: Simple blog
-author: Dante Calderón
+author: Sagar Kharabe
 path: best-practices-with-react
 image: ../images/react-best-practices.png
 date: 2019-10-01T20:16:06.768Z
