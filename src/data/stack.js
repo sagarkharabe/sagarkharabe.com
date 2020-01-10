@@ -75,7 +75,7 @@ const groups = [
     items: [
       {
         url: 'https://google.com',
-        name: 'React',
+        name: 'React & React Native',
         icon: 'react-original.svg',
         background: '#1c1c1c',
         type: type[3],
