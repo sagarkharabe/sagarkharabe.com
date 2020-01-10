@@ -9,13 +9,15 @@ description: >-
   An in-browser platformer game with a level builder that lets you make your own
   levels and share them with the community.
 path: bridge-bali
-thumbnail: ../images/bridge-bali-1.png
+image: ../images/bridge-bali-1.png
 images:
+  - description: GamePlay Screenshot
+    image: ../images/bridge-bali-1.png
   - description: Profile Screenshot
     image: ../images/bridge-bali-2.png
   - description: Level Creator Screenshot
     image: ../images/bridge-bali-3.jpg
-date: 2019-01-05T05:51:00.000Z
+date: 2019-05-01T05:51:00.000Z
 finished: true
 published: true
 style: default
