@@ -19,6 +19,7 @@ const Wrapper = styled.div`
 export default props => (
   <Wrapper>
     {props.posts.map(({ node }, index) => {
+      console.log(node.frontmatter)
       return (
         <Item
           data={{
@@ -28,7 +29,7 @@ export default props => (
             path: `/${node.fields.slug}`,
             tags: node.frontmatter.tags,
             repository: node.frontmatter.repository,
-            website: node.frontmatter.website
+            website: node.frontmatter.website,
           }}
           key={index}
           finished={node.frontmatter.finished}
