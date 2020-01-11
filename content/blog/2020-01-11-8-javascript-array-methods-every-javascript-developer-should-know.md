@@ -103,7 +103,7 @@ console.log(hasInexpensiveItems)
 Array.every() is very similar to Array.some(), expect it checks if every item in the array falls under the condition passed in the function or else it will return false.
 
 ```js
-const allItemsInexpensive = items.some(   
+const allItemsInexpensive = items.every(   
 item => item.price < 100
 )
 console.log(allItemsInexpensive)
