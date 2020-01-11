@@ -8,16 +8,16 @@ description: >-
   Dev Connector is a Social media for developers all around the world to share
   their developer stories, interesting insights and grow together.
 path: dev-connector
-thumbnail: /images/dev-connect-1.png
+image: ../images/dev-connect-1.png
 images:
   - description: Developer Profile
-    image: /images/dev-connect-4.png
+    image: ../images/dev-connect-4.png
   - description: All Profiles
-    image: /images/dev-connect-2.png
+    image: ../images/dev-connect-2.png
   - description: Dashboard
-    image: /images/dev-connect-3.png
+    image: ../images/dev-connect-3.png
   - description: Post Feeds
-    image: /images/dev-connect-5.png
+    image: ../images/dev-connect-5.png
 date: 2019-04-01T07:08:00.000Z
 finished: true
 published: true
