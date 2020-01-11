@@ -3,7 +3,7 @@ model: post
 title: 8 Javascript array methods every javascript developer should know!
 description: 8 Javascript array methods every javascript developer should know!
 path: 8-Javascript-array-methods-every-javascript-developer-should-know
-thumbnail: /images/javascript-array-methods.jpg
+image: ../images/javascript-array-methods.jpg
 date: 2020-01-11T07:50:50.162Z
 published: true
 style: default
