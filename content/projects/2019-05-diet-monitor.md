@@ -8,21 +8,21 @@ description: >-
   EasyCal is here to help in diet & calories monitoring and giving you curated
   meals suggestions to achieve health goals.
 path: easycal-diet-monitor
-thumbnail: /images/diet-monitor-1.png
+image : ../images/diet-monitor-1.png
 images:
   - description: Calories monitoring
-    image: /images/diet-monitor-2.png
+    image: ../images/diet-monitor-2.png
   - description: Calories Monitoring 2
-    image: /images/diet-monitor-1.png
+    image: ../images/diet-monitor-1.png
   - description: Nutrition Details
-    image: /images/diet-monitor-4.png
+    image: ../images/diet-monitor-4.png
   - description: Diet Planner
-    image: /images/diet-monitor-3.png
+    image: ../images/diet-monitor-3.png
   - description: Food Consumption
-    image: /images/diet-monitor-5.png
+    image: ../images/diet-monitor-5.png
   - description: Set your goals
-    image: /images/diet-monitor-6.png
-date: '2018-05-05T08:41:18-05:00'
+    image: ../images/diet-monitor-6.png
+date: '2019-05-05T08:41:18-05:00'
 finished: true
 published: true
 style: normal-img
