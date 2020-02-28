@@ -9,9 +9,9 @@ path: twitter-help-desk
 image: ../images/twitter-help-desk.png
 images:
   - description: A sneak peak into the design.
-    image: /images/twitter-help-desk.png
+    image: ../images/twitter-help-desk.png
   - description: Prototype
-    image: /images/twitter-help-desk2.png
+    image: ../images/twitter-help-desk2.png
 date: 2020-02-24T19:06:21.336Z
 finished: true
 published: true
