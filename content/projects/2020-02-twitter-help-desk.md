@@ -6,7 +6,7 @@ description: >
   A twitter help desk for users to fetch and reply to tweets from their timeline
   & are mentioned real time from within the app.
 path: twitter-help-desk
-thumbnail: /images/twitter-help-desk.png
+image: /images/twitter-help-desk.png
 images:
   - description: A sneak peak into the design.
     image: /images/twitter-help-desk.png
