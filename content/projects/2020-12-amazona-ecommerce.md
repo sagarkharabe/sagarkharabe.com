@@ -9,18 +9,18 @@ description: >-
   electronic data interchange (EDI), inventory management systems, and automated
   data collection systems.
 path: amazona-ecommerce
-thumbnail: /images/screenshot-2020-12-12-at-9.37.56-pm.png
+image: ../images/screenshot-2020-12-12-at-9.37.56-pm.png
 images:
   - description: Homepage
-    image: /images/screenshot-2020-12-12-at-9.37.56-pm.png
+    image: ../images/screenshot-2020-12-12-at-9.37.56-pm.png
   - description: Product Details
-    image: /images/screenshot-2020-12-12-at-9.39.39-pm.png
+    image: ../images/screenshot-2020-12-12-at-9.39.39-pm.png
   - description: Cart View
-    image: /images/screenshot-2020-12-12-at-9.40.36-pm.png
+    image: ../images/screenshot-2020-12-12-at-9.40.36-pm.png
   - description: Seller Dashboard
-    image: /images/screenshot-2020-12-12-at-9.46.13-pm.png
+    image: ../images/screenshot-2020-12-12-at-9.46.13-pm.png
   - description: Add new product
-    image: /images/screenshot-2020-12-12-at-9.46.30-pm.png
+    image: ../images/screenshot-2020-12-12-at-9.46.30-pm.png
 date: 2020-08-01T16:26:35.236Z
 finished: true
 published: true
