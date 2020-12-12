@@ -17,7 +17,6 @@ module.exports = {
         link: 'https://instagram.com/sagar.r.k',
         icon: 'stack-overflow',
       },
-      // { title: 'Goodreads', link: 'https://instagram.com/dantehemerson', icon: 'instagram' },
       {
         title: 'FreeCodeCamp',
         link: 'https://instagram.com/sagarkharabe',
@@ -26,9 +25,6 @@ module.exports = {
       { title: 'Gitlab', link: 'https://instagram.com/sagarkharbe', icon: 'gitlab' },
       { title: 'Angellist', link: 'https://angel.co/sagarkharabe', icon: 'angellist' },
       { title: 'Codepen', link: 'https://codepen.io/sagarkharabe', icon: 'codepen' },
-      // { title: 'Pinterest', link: 'https://www.pinterest.com/dantehemerson/', icon: 'pinterest' },
-      // { title: 'Steam', link: 'https://steamcommunity.com/id/dantehemerson/', icon: 'steam' },
-      // { title: 'Twitch', link: 'https://www.twitch.tv/dantehemerson', icon: 'twitch' },
       {
         title: 'Youtube',
         link: 'https://www.youtube.com/channel/UCpQvhmrcJQHD2LR8Yj6-Glg',
