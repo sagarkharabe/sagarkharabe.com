@@ -1,6 +1,6 @@
 # Redirect default Netlify subdomain to primary domain
 
-/g https://github.com/sagarkharbe 301
+/g https://github.com/sagarkharabe 301
 /t https://twitter.com/sagarkharabe 301
 /i https://www.instagram.com/sagar.r.k 301
 /l https://www.linkedin.com/in/sagarkharabe 301
