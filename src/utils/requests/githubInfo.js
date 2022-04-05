@@ -8,7 +8,7 @@ export const getMyGithubInfo = async () => {
       },
       body: JSON.stringify({
         query: `
-        { user(login: "sagarkharbe") {
+        { user(login: "sagarkharabe") {
             contributionsCollection {
               contributionCalendar {
                 totalContributions
