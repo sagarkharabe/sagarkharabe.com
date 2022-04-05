@@ -16,7 +16,7 @@ export default class SEO extends PureComponent {
     title: 'Sagar Kharabe',
     image: `https://sagarkharabe.com${avatar}`,
     url: 'https://sagarkharabe.com/',
-    description: 'Sagar Kharabe - FullStack JavaScript Developer',
+    description: 'Sagar Kharabe - Senior Software Engineer',
     isPost: false,
   }
 
@@ -47,7 +47,7 @@ export default class SEO extends PureComponent {
           sameAs: [
             'https://twitter.com/sagarkharabe',
             'https://www.instagram.com/sagar.r.k',
-            'https://www.github.com/sagarkharbe',
+            'https://www.github.com/sagarkharabe',
             'https://www.linkedin.com/in/sagarkharabe',
           ],
           itemListElement: [
