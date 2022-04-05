@@ -9,7 +9,7 @@ export const pages = {
 export const getLinkEditPost = absolutePath => {
   const res = /([^/]+)$/g.exec(absolutePath)
   if (res.length >= 1) {
-    return `https://github.com/sagarkharbe/sagarkharabe.com/blob/master/content/blog/${
+    return `https://github.com/sagarkharabe/sagarkharabe.com/blob/master/content/blog/${
       res[res.length - 1]
     }`
   }
