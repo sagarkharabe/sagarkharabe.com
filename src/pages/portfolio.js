@@ -17,7 +17,7 @@ const Portfolio = props => {
         title="Portfolio"
         description={[
           'These are some of my projects, to see more projects check my ',
-          <a key="link" target="__blank" href="https://github.com/sagarkharbe">
+          <a key="link" target="__blank" href="https://github.com/sagarkharabe">
             Github
           </a>,
           '.',
